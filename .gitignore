@@ -108,7 +108,6 @@ vendor/
 sop_screenshots/
 temp_*.json
 temp_*.pdf
-codex/
 *.m4v
 *.3gp
 *.flv
