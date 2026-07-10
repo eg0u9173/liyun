@@ -19,13 +19,13 @@ REM 请在这里填写你的参数（修改等号后面的内容）
 REM ==========================================
 
 REM 你的 GitHub 用户名
-set GITHUB_USERNAME=你的GitHub用户名
+set GITHUB_USERNAME=eg0u9173
 
 REM 你的 GitHub 邮箱（用于Git提交记录）
 set GITHUB_EMAIL=your-email@example.com
 
 REM 你的 GitHub 仓库名称（可以自定义）
-set REPO_NAME=codex-tutorial
+set REPO_NAME=liyun
 
 REM 你的 GitHub 个人访问令牌（Token）
 REM 获取方式：https://github.com/settings/tokens -
